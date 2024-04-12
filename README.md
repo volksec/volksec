@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://app.hackthebox.com/profile/1184809" target="_blank">Hack The Box</a>
 • <a href="https://tryhackme.com/p/volksec" target="_blank">TryHackMe</a>
+• <a href="https://medium.com/@volksec" target="_blank">Medium</a>
 • <a href="https://www.linkedin.com/in/luannutels" target="_blank">Linkedin</a>
 </p>
 
